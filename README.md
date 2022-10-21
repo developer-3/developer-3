@@ -9,7 +9,7 @@ I'm a fourth year CSE Student and 2x Amazon SDE Intern. Feel free to reach out.
 * 🌍  I'm based in East Lansing
 * 🚀  I'm currently working on [personal projects](http://github.com/developer-3) 
 * 🧠  I'm learning AI
-* ⚡  adamadam.dev
+* ⚡   [my personal site](https://adamadam.dev)
 
 ### Skills
 
