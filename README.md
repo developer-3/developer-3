@@ -1,4 +1,4 @@
-Hi 👋 My name is Adam Anderson 
+Hi 👋 My name is Adam
 ==============================  
 
 CSE Student and Amazon Intern 
