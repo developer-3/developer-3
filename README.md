@@ -17,6 +17,7 @@ I'm a fourth year CSE Student and 2x Amazon SDE Intern. Feel free to reach out.
 <p align="left"> <a href="https://www.github.com/developer-3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adam-anderson-545472192" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCJDUcbW7LjjOQP88i1hNO7Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
+<br/>
 <a href="http://www.github.com/developer-3"><img src="https://github-readme-stats.vercel.app/api?username=developer-3&show_icons=true&theme=tokyonight" alt="developer-3's GitHub stats" /></a>
 <a href="https://github.com/developer-3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 ### Support Me
