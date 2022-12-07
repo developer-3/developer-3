@@ -6,9 +6,8 @@ CSE Student and Amazon Intern
 
 I'm a fourth year CSE Student and 2x Amazon SDE Intern. Feel free to reach out.  
 
-* 🚀  I'm currently working on [personal projects](http://github.com/developer-3) 
-* 🧠  I'm learning AI
-* ⚡   [my personal site](https://adamadam.dev)
+🚀  I'm currently working on [personal projects](http://github.com/developer-3) 
+<br/>⚡  [my personal site](https://adamadam.dev)
 
 ### Skills
 
