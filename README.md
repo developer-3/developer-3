@@ -15,9 +15,6 @@ I'm a fourth year CSE Student and 2x Amazon SDE Intern. Feel free to reach out.
 
 <p align="left"> <a href="https://www.github.com/developer-3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adam-anderson-545472192" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCJDUcbW7LjjOQP88i1hNO7Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
-<br/>
-<a href="http://www.github.com/developer-3"><img src="https://github-readme-stats.vercel.app/api?username=developer-3&show_icons=true&theme=tokyonight" alt="developer-3's GitHub stats" /></a>
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/adamanderson"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
