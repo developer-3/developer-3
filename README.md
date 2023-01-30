@@ -1,6 +1,6 @@
 
 # Hi 👋 My name is Adam 
-📚 4th year Computer Science major at Michigan State University.<br>🔬 Researching drone technology with [AIDED](https://aided-website.vercel.app/), funded by NASA.<br>🧑‍💻 Huge fan of Python, Typescript, and building cool things!
+📚 4th year Computer Science major at Michigan State University.<br>🔬 Researching drone technology with [AIDED](https://aided-website.vercel.app/), funded by NASA.<br>🧑‍💻 Huge fan of Typescript, Python, and building cool things!
 
 
 ## 🌐 Socials:
@@ -26,7 +26,8 @@
 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=developer-3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
