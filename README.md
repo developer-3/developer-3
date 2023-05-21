@@ -1,6 +1,7 @@
 
 # Hi 👋 My name is Adam 
-📚 4th year Computer Science major at Michigan State University.<br>🔬 Researching drone technology with [AIDED](https://aided-website.vercel.app/), funded by NASA.<br>🧑‍💻 Huge fan of Typescript, Python, and building cool things!<br>✍️ Currently learning [Odin](https://odin-lang.org/).
+🧑‍💼 Incoming SDE 1 at Amazon.<br>
+📚 B.S. in Computer Science from Michigan State University.<br>🔬 Ex-Software Researcher at [AIDED](https://aided-website.vercel.app/), funded by NASA.<br>🧑‍💻 Huge fan of Typescript, Python, and building cool things!<br>✍️ Currently learning [Odin](https://odin-lang.org/).
 
 
 ## 🌐 Socials:
